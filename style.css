@@ -1,0 +1,33 @@
+tr.first{
+    background-color: gainsboro;
+}
+
+div.container img { 
+    display: block;
+    margin: auto;
+}
+
+table > tbody > tr > td .center{
+    text-align: center;
+}
+
+div.center {
+    margin: auto;
+    width: 90%; 
+    padding: 10px;
+    
+}
+
+div#center {
+    margin: auto;
+    width: 90%; 
+    padding: 10px;
+    background-color: gainsboro;
+}
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+    text-align: center;
+}
+
